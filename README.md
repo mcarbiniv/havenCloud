@@ -25,7 +25,7 @@ HAVEN is designed to become:
 
 - A secure digital storage and sharing platform
 - A privacy-first space where users own their data
-- A clean, fast, minimal tool — built around speed, not bloat
+- A clean, fast, minimal tool - built around speed, not bloat
 - A product that earns real revenue and grows without VC money
 
 # TECH STACK (So far)
